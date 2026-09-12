@@ -7,6 +7,7 @@ student studying software in his free time, newbie fullstack dev, nixos glazer. 
 * bash script/shell
 * linux
 * qml
+* html/css
 * go (learning)
 * c (learning)
 ### libraries
