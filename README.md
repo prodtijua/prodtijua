@@ -12,7 +12,7 @@ student studying software in his free time, newbie fullstack dev, nixos glazer. 
 * c (learning)
 ### libraries
 * django
-* tkinter
+* pandas, matplotlib
 * quickshell
 
 ## if u want to talk to me:
