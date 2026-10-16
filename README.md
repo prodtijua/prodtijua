@@ -8,8 +8,8 @@ student studying software in his free time, newbie fullstack dev, nixos glazer. 
 * linux
 * qml
 * html/css
-* go (learning)
-* c (learning)
+* rust (learning)
+* git/github
 ### libraries
 * django
 * pandas, matplotlib
